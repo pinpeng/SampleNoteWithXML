@@ -1,0 +1,8 @@
+# SampleNoteWithXML
+基于Qt开发的简易笔记系统，通过XML存储文件
+
+XML课程结课大作业，但XML的内容反而好像不多，大部分像是Qt的入门级应用。
+
+myxmlstruct文件中声明并定义了用于组织xml格式的各种数据结构
+mainwindow文件中声名并定义了图形界面的各种信号和槽
+xmlfile文件用于生成可持久化保存的数据（也就是XML)以及从XML文件中读取数据
